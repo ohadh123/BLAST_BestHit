@@ -2,7 +2,7 @@ The following documentation describes the instructions and logic behind the BLAS
 
 Note: For further assistance, the demo folder attached displays the command line and the files created as a result of running the program with blastp
 
-#Prerequisites
+Prerequisites
 
 Installation of BLAST+: The BLAST best-hit algorithm runs on a tabular file with comment lines, containing a series of matches given as output from performing BLAST through the command-line. The BLAST+ user manual can be found at https://www.ncbi.nlm.nih.gov/books/NBK279690/ and can be installed to your system by following the Installation tab.
 
